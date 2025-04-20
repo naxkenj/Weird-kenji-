@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Blu-spark",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "61572891756852"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61572891756852",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61572891756852"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
