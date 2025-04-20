@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Blu-spark",
+  "BOTNAME": "bluspark",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "61572891756852"
+    "100000959749712"
   ],
   "ADMINBOT": [
     "61572891756852",
     ""
   ],
-  "OWNER": ["61572891756852"], 
+  "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
